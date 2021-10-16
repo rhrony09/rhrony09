@@ -48,8 +48,8 @@
 
 ➡️ [Read more Articles...](https://rhrony.com/articles)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhrony09&show_icons=true&locale=en&layout=compact" alt="rhrony09" /></p>
+
 ### 📊 Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhrony09)](#)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhrony09&show_icons=true&locale=en&layout=compact" alt="rhrony09" /></p>
