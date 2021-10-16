@@ -52,16 +52,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhrony09)](#)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhrony09" alt="rhrony09" /></a> </p>
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="/https://rhrony.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rhrony.com/feed" height="30" width="40" /></a>
-</p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhrony09&show_icons=true&locale=en&layout=compact" alt="rhrony09" /></p>
