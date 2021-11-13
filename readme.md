@@ -1,6 +1,8 @@
 ### Hi there, It's Rowshon Habib Rony - aka [RH Rony](https://rhrony.com) 👋
 
-[![Website](https://img.shields.io/website?label=rhrony.com&style=for-the-badge&url=https%3A%2F%2Frhrony.com)](https://rhrony.com)
+[![Website](https://img.shields.io/website?label=rhrony.com&style=for-the-badge&url=https%3A%2F%2Frhrony.com)](https://rhrony.com) 
+
+[![gist](https://img.shields.io/badge/-View%20Gist-green)](https://gist.github.com/rhrony09)
 <br />
 
 ---
