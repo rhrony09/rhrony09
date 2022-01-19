@@ -10,7 +10,7 @@
 <br />
 - 🌱 I’m currently learning everything 🤣
 <br />
-- 🥅 2021 Goals: Learn raw coading precisely
+- 🥅 2022 Goals: Learn raw coading precisely
 <br />
 - ⚡ Fun fact: I love to sleep
 
