@@ -1,59 +1,81 @@
-### Hi there, It's Rowshon Habib Rony - aka [RH Rony](https://rhrony.com) 👋
+# 👋 Hello, I'm [Rowshon Habib Rony](https://rhrony.com)
 
-[![Website](https://img.shields.io/website?label=rhrony.com&style=for-the-badge&url=https%3A%2F%2Frhrony.com)](https://rhrony.com) 
+[![Website](https://img.shields.io/website?label=rhrony.com&style=flat-square&url=https%3A%2F%2Frhrony.com)](https://rhrony.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rhrony)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat-square&logo=facebook)](https://www.facebook.com/rhrony009)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/rh_rony)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=flat-square&logo=whatsapp)](https://wa.link/nfyian)
+[![GitHub Gist](https://img.shields.io/badge/GitHub-Gist-black?style=flat-square&logo=github)](https://gist.github.com/rhrony09)
 
-[![gist](https://img.shields.io/badge/-View%20Gist-green)](https://gist.github.com/rhrony09)
-<br />
+## 👨‍💻 About Me | Laravel & WordPress Developer
 
----
+```javascript
+const rhrony = {
+  code: ["JavaScript", "PHP", "HTML", "CSS", "SQL"],
+  tools: ["Laravel", "WordPress", "Bootstrap", "Tailwind CSS", "jQuery", "Git", "WooCommerce"],
+  learning: "Always exploring new technologies",
+  goals: `Mastering the fundamentals of clean, efficient code while expanding my Laravel and WordPress expertise.`,
+  funFact: "I love to sleep 😴"
+};
+```
 
-<br />
-- 🌱 I’m currently learning everything 🤣
-<br />
-- 🥅 2023 Goals: Learn raw coading precisely
-<br />
-- ⚡ Fun fact: I love to sleep
+I'm a full-stack web developer specializing in Laravel and WordPress solutions. With expertise in custom theme and plugin development, e-commerce solutions with WooCommerce, and building robust web applications, I'm passionate about creating elegant, scalable, and high-performance websites.
 
-### Connect Me:
+## 🛠️ Languages and Tools
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rhrony.com)
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/rhrony009)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rhrony)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rh_rony)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.link/nfyian)
+<p align="left">
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  
+  <!-- Frameworks & CMS -->
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
 
-<br />
-<br />
+## 📊 GitHub Stats
 
-### Languages and Tools:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhrony09&show_icons=true&theme=dracula" alt="rhrony09's GitHub stats" />
+</p>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](#)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](#)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#)
-[<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png" />](#)
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />](#)
-[<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](#)
-[<img align="left" alt="wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />](#)
-[<img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />](#)
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](#)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](#)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](#)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhrony09&show_icons=true&locale=en&layout=compact&theme=dracula" alt="rhrony09's language stats" />
+</p>
 
-<br />
-<br />
-
----
-
-### 📕 Latest Articles
+## 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [Read more Articles...](https://rhrony.com/articles)
+➡️ [Read more articles on my website](https://rhrony.com/articles)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhrony09&show_icons=true&locale=en&layout=compact" alt="rhrony09" /></p>
+## 🚀 Current Focus
 
-### 📊 Github Stats
+- 🌱 Exploring advanced Laravel and WordPress development
+- 💻 Building custom WordPress plugins and Laravel packages
+- 🎨 Creating elegant UI/UX with Tailwind and Livewire
+- 🔧 Optimizing database performance and application architecture
+- 📚 Keeping up with the latest PHP and JavaScript ecosystem updates
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhrony09)](#)
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rhrony09&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
